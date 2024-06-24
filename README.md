@@ -1,5 +1,8 @@
 # Rust Book
 
+Repository for Rust exercises from the [official Rust book](https://doc.rust-lang.org/book/).
+
 ```bash
-    rustup doc --book
+# Open the book offline:
+rustup doc --book
 ```
